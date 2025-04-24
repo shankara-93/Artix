@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-ultralytics
-supervision
-opencv-python
-geopandas
-shapely
-pyproj
-Pillow
